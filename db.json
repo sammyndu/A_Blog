@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sam ndu",
+      "email": "samndu2@gmail.com",
+      "password": "samuel",
+      "date_created": "09/09/2019",
+      "date_updated": "09/09/2019"
+    },
+    {
+      "name": "sam",
+      "email": "sams@yahoo.com",
+      "password": "sam",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "author_id": 1,
+      "date_created": "09/09/2019",
+      "date_updated": "09/09/2019"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "author_id": 1,
+      "date_created": "09/09/2019",
+      "date_updated": "09/09/2019"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "date_created": "09/09/2019",
+      "date_updated": "09/09/2019"
+    }
+  ]
+}
