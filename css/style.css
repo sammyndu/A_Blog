@@ -1,0 +1,14 @@
+.content {
+    margin-top: 5rem;
+}
+
+.card {
+    margin-bottom: 4rem;
+}
+
+.posts {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0px;
+    padding-left:3rem; 
+}
